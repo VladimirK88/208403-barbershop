@@ -1,0 +1,27 @@
+body {
+  font-size: 14px;
+  line-height: 18px;
+  color: black;
+  font-weight: normal;
+  font-family: "PT Sans Narrow";
+  text-transform: uppercase;
+  background-image: url("img/background.jpg");
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 42px;
+  color: black;
+  font-weight: normal;
+  font-family: "PT Sans Narrow";
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 30px;
+  color: black;
+  font-weight: normal;
+  font-family: "PT Sans Narrow";
+  text-transform: uppercase;
+}
